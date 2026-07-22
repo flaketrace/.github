@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="400" height="400" role="img" aria-label="flaketrace">
+  <title>flaketrace</title>
+  <rect width="64" height="64" fill="#07090c" />
+  <!-- A run trace: a noisy-but-fine baseline with one anomaly, drawn as a single continuous
+       polyline so it reads as a chart rather than a shape. No dot at the apex — a dot on top
+       of two legs reads as a head, every time. The green is an overdraw of the spike segment
+       of the same path, so the line never breaks. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.6">
+    <path stroke="#5c6873" d="M4 46 12 43 20 47 28 44 34 15 40 46 48 42 56 46 60 44" />
+    <path stroke="#3fb950" d="M28 44 34 15 40 46" />
+  </g>
+</svg>
