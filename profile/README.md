@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mark-256.png" width="168" alt="">
+  <img src="assets/mark.png" width="200" alt="">
 </p>
 
 <h1 align="center">flaketrace</h1>
