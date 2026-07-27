@@ -83,5 +83,8 @@ it up.
 
 ---
 
+<sub>From the same maintainer: [Agentic OS](https://github.com/Jarroslav/agentic-os) — governed AI
+agents for your repo, with a [setup guide for QA engineers](https://jarroslav.github.io/agentic-os/setup/#qa).</sub>
+
 <sub>Playwright is a trademark of Microsoft Corporation. This project is community-built and is not
 affiliated with or endorsed by Microsoft.</sub>
